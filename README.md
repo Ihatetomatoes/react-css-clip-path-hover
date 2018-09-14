@@ -3,7 +3,7 @@ Working files for my CSS Clip Path YouTube tutorial.
 
 ## Related Video
  
-<!-- [![React + CSS Clip Path Hover Effect Tutorial](v119-CSS-Clip-Path-Deconstruction.jpg)](https://www.youtube.com/) -->
+[![React + CSS Clip Path Hover Effect Tutorial](v119-CSS-Clip-Path-Deconstruction.jpg)](https://www.youtube.com/)
 
 Add Video URLs
 
